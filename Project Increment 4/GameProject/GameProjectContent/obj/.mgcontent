@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/graphics/burger.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/graphics/explosion.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/graphics/frenchfries.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/graphics/teddybear.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/graphics/teddybearprojectile.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/fonts/Arial20.spritefont</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/BurgerDamage.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/BurgerDeath.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/BurgerShot.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/Explosion.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/TeddyBounce.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/TeddyShot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

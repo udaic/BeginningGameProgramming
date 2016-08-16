@@ -1,0 +1,56 @@
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\ProgrammingAssignment2.exe
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\ProgrammingAssignment2.pdb
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\MonoGame.Framework.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XInput.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\MonoGame.Framework.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XInput.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\Content\graphics\image0.xnb
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\Content\graphics\image1.xnb
+G:\Coursera\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\Content\graphics\image2.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\Content\graphics\image0.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\Content\graphics\image1.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\Content\graphics\image2.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\ProgrammingAssignment2.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\ProgrammingAssignment2.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 2\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache

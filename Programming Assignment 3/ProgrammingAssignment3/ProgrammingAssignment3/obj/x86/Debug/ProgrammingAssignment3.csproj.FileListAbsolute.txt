@@ -1,0 +1,109 @@
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\greenrock.xnb
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\magentarock.xnb
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\whiterock.xnb
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\greenrock.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\magentarock.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\whiterock.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\greenrock.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\magentarock.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\graphics\whiterock.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 3\Prog3Materials\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache

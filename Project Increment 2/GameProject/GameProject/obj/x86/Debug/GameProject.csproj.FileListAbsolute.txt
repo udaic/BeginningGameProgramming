@@ -1,0 +1,68 @@
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\teddybear.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\burger.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\explosion.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\frenchfries.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\teddybearprojectile.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\Arial20.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\BurgerDamage.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\BurgerDeath.xnb
+H:\Coursera\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\BurgerShot.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\burger.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\explosion.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\frenchfries.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\teddybear.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\teddybearprojectile.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\Arial20.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\BurgerDamage.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\BurgerDeath.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\Content\BurgerShot.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Beginning Game Programming with C#\Week - 4\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache

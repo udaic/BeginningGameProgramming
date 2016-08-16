@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/audio/Explosion.wav</SourceFile>
+  <SourceTime>2010-09-27T08:41:46-06:00</SourceTime>
+  <DestFile>C:/Users/Albert/Dropbox/Courses/GDD 1200/Project Increments/solution/ProjectIncrement1/GameProjectContent/bin/audio/Explosion.xnb</DestFile>
+  <DestTime>2016-01-23T10:51:44.0953024-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T11:14:44-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T11:14:44-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,469 @@
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 1\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 2\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\ProjectIncrement1\Step 3\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 1\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 2\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 3\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 4\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 5\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Project Increments\solution\Windows\ProjectIncrement2\Step 6\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+G:\Coursera\Beginning Game Programming with C#\_1f1565603f57babcc32c9f1749190be3_WindowsProjectIncrement2Solution\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDamage.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerDeath.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\BurgerShot.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\Explosion.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyBounce.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\audio\TeddyShot.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\fonts\Arial20.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\burger.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\explosion.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\frenchfries.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\Content\graphics\teddybearprojectile.xnb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\GameProject.exe
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\GameProject.pdb
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Udai\IIIT-Delhi\Coursera\Beginning Game Programming in C#\Project Increment 4\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache

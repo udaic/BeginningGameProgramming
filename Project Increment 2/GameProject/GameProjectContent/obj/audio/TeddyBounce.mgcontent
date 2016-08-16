@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>H:/Coursera/Beginning Game Programming with C#/Week - 4/GameProject/GameProjectContent/audio/TeddyBounce.wav</SourceFile>
+  <SourceTime>2012-09-30T18:10:30+05:30</SourceTime>
+  <DestFile>H:/Coursera/Beginning Game Programming with C#/Week - 4/GameProject/GameProjectContent/bin/audio/TeddyBounce.xnb</DestFile>
+  <DestTime>2016-06-29T21:32:06.5371032+05:30</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T22:44:44+05:30</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T22:44:44+05:30</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
